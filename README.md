@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @brutemoon
-- 👀 I’m interested in software synthesisers. Currently I'm building a control pannel for Reason's Subtractor
-- 🌱 I’m currently learning C++ for Arduino. I use a Micro to convert analog signals to midi over usb.
+<h3>Hi, I’m @brutemoon</H3>
+<p>I’m interested in <b>Eurorack</b> and <b>software synthesisers</b>. </p>
+<p>I’m currently learning C++ for Arduino. </br>
+I use a Micro to convert analog signals to midi over usb.</br>
+I'm also learning the electrical components.</p>
 
 <!---
 brutemoon/brutemoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
